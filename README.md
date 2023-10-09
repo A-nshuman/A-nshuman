@@ -6,21 +6,18 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-nshuman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A-nshuman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=A-nshuman&show_icons=true&theme=gotham&line_height=24&hide=stars&hide_border=false" />  
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-nshuman&layout=compact&theme=gotham&hide_border=false" />
+</a>
 </div>
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=chalk&rank=-?&column=3" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=dark_lover&rank=-?&column=3" alt="a-nshuman" /></a> </p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=chalk&rank=-?&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-###
-
-<!-- <img align="right" height="150" src="https://cdn.discordapp.com/attachments/829223861168898078/1159225045244182588/har-har-mahadev-jai-mahakal-best-trishul_square.jpg?ex=65303f74&is=651dca74&hm=4049bd59babb3e822e9cd75e0c0ccd62db3b5d04dc747779899764d7c427f94e&"  /> -->
-
-###
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
