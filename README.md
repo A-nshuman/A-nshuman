@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=dark_lover&rank=-?&column=3" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=dark_lover&rank=-?&column=4" alt="a-nshuman" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
