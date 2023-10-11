@@ -16,8 +16,8 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-nshuman&theme=dark_lover&rank=-?&column=4" alt="a-nshuman" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A-nshuman&theme=dark_lover&rank=-B,-C,-?&column=2&margin-w=4&" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=A-nshuman&theme=dark_lover&no-frame=false&no-bg=false&margin-w=4&column=4&row=2" alt="a-nshuman" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
