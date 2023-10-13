@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=A-nshuman&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=gotham&line_height=24&&hide_border=false" />  
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=A-nshuman&show_icons=true&count_private=true&hide=prs&theme=gotham&line_height=24&&hide_border=false" />  
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-nshuman&size_weight=0.5&count_weight=0.5&exclude_repo=AnshuBot&layout=compact&theme=gotham&hide_border=false" />
