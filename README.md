@@ -6,18 +6,18 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/A-nshuman">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=A-nshuman&show_icons=true&count_private=true&hide=prs&theme=gotham&line_height=24&&hide_border=false" />  
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/A-nshuman">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-nshuman&size_weight=0.5&count_weight=0.5&exclude_repo=AnshuBot&layout=compact&theme=gotham&hide_border=false" />
 </a>
 </div>
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A-nshuman&theme=dark_lover&rank=-?&column=4&margin-w=4&" alt="a-nshuman" /></a> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=A-nshuman&theme=dark_lover&no-frame=false&no-bg=false&margin-w=4&column=3&row=1" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/A-nshuman"><img src="https://github-profile-trophy.vercel.app/?username=A-nshuman&theme=dark_lover&rank=-?&column=4&margin-w=4&" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/A-nshuman"><img src="https://github-trophies.vercel.app/?username=A-nshuman&theme=dark_lover&no-frame=false&no-bg=false&margin-w=4&column=3&row=1" alt="a-nshuman" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
