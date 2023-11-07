@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/A-nshuman"><img src="https://github-profile-trophy.vercel.app/?username=A-nshuman&theme=dark_lover&rank=-?&column=4&margin-w=4&" alt="a-nshuman" /></a> </p>
+<p align="center"> <a href="https://github.com/A-nshuman"><img src="https://github-profile-trophy.vercel.app/?username=A-nshuman&theme=dark_lover&rank=-?&column=5&margin-w=4&" alt="a-nshuman" /></a> </p>
 <p align="center"> <a href="https://github.com/A-nshuman"><img src="https://github-trophies.vercel.app/?username=A-nshuman&theme=dark_lover&no-frame=false&no-bg=false&margin-w=4&column=3&row=1" alt="a-nshuman" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
