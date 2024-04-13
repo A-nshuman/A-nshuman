@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Anshuman and I'm passionate about programming and 3d modeling + animation</h2>
 
 ###
-- 👨‍💻 All of my projects are available on [My Portfolio Website](https://anshumans-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio Website](https://anshuman.me)
 
 <br>
 
